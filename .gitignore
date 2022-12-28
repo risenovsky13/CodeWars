@@ -3,3 +3,4 @@ CodeWars/.gitattributes
 .vs
 CodeWars/.vs
 CodeWars/.vscode
+.gitignore
