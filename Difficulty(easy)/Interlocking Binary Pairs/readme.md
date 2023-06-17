@@ -7,7 +7,7 @@ numbers can be interlocked if their binary representations have no ```1```'s in 
 comparisons are made by bit position, starting from right to left (see the examples below)
 when representations are of different lengths, the unmatched left-most bits are ignored
 
-Examples
+## Examples
 ```a = 9```, ```b = 4```
 Stacking representations shows how they can interlock.
 
@@ -26,8 +26,8 @@ These representations do not interlock.
 Finding they both have a ```1``` in the same position, the function returns ```false```.
 
 
-Input
+## Input
 Two non-negative integers.
 
-Output
+## Output
 Boolean ```true``` or ```false``` whether or not these integers are interlockable.
