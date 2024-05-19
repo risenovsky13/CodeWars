@@ -1,0 +1,15 @@
+/workspaces/CodeWars/6 kyu /Playing with passphrases/bin/Debug/net8.0/Playing with passphrases
+/workspaces/CodeWars/6 kyu /Playing with passphrases/bin/Debug/net8.0/Playing with passphrases.deps.json
+/workspaces/CodeWars/6 kyu /Playing with passphrases/bin/Debug/net8.0/Playing with passphrases.runtimeconfig.json
+/workspaces/CodeWars/6 kyu /Playing with passphrases/bin/Debug/net8.0/Playing with passphrases.dll
+/workspaces/CodeWars/6 kyu /Playing with passphrases/bin/Debug/net8.0/Playing with passphrases.pdb
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.AssemblyInfoInputs.cache
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.AssemblyInfo.cs
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.csproj.CoreCompileInputs.cache
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.sourcelink.json
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.dll
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/refint/Playing with passphrases.dll
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.pdb
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/Playing with passphrases.genruntimeconfig.cache
+/workspaces/CodeWars/6 kyu /Playing with passphrases/obj/Debug/net8.0/ref/Playing with passphrases.dll
