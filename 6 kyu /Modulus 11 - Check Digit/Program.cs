@@ -13,22 +13,56 @@ internal class Program
     {
         string checkDigit = string.Empty;
         int[] numbers = new int[number.Length];
+        int[] multiplicationFactors = new int[number.Length];
+        int[] multiplicationResult = new int[number.Length];
+        int mf = 2;
 
         Regex pattern = new Regex(@"\d");
         MatchCollection match = pattern.Matches(number);
 
-        foreach (var item in match)
+        for (int i = 0; i < numbers.Length; i++)
         {
-            Console.WriteLine(item);
+            numbers[i] = int.Parse(match[i].Value);
         }
-        Console.WriteLine("");
 
-        
-        
-        
-        
-        
-        
+        for (int i = numbers.Length - 1; i >= 0; i--)
+        {
+            if (mf == 8)
+            {
+                mf = 2;
+                multiplicationFactors[i] = mf;
+                mf++;
+            }
+            else
+            {
+                multiplicationFactors[i] = mf;
+                mf++;
+            }
+        }
+
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            multiplicationResult[i] = numbers[i] * multiplicationFactors[i];
+        }
+
+        int reminder = multiplicationResult.Aggregate((a, b) => a + b) % 11;
+
+        Console.WriteLine(reminder);
+
+        if(reminder == 0)
+        {
+            checkDigit = reminder.ToString();
+        }
+        else if(reminder == 1)
+        {
+            checkDigit = "X";
+        }
+        else
+        {
+            checkDigit = (11 - reminder).ToString();   
+        }
+
+
 
         return number + checkDigit;
     }
