@@ -2,3 +2,4 @@
 *bin
 *.csproj
 *.sln
+*.gitignore
