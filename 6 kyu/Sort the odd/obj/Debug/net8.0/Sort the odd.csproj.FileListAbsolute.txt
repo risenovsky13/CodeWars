@@ -1,0 +1,15 @@
+E:\Code\CodeWars\6 kyu\Sort the odd\bin\Debug\net8.0\Sort the odd.exe
+E:\Code\CodeWars\6 kyu\Sort the odd\bin\Debug\net8.0\Sort the odd.deps.json
+E:\Code\CodeWars\6 kyu\Sort the odd\bin\Debug\net8.0\Sort the odd.runtimeconfig.json
+E:\Code\CodeWars\6 kyu\Sort the odd\bin\Debug\net8.0\Sort the odd.dll
+E:\Code\CodeWars\6 kyu\Sort the odd\bin\Debug\net8.0\Sort the odd.pdb
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.AssemblyInfoInputs.cache
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.AssemblyInfo.cs
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.csproj.CoreCompileInputs.cache
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.sourcelink.json
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.dll
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\refint\Sort the odd.dll
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.pdb
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\Sort the odd.genruntimeconfig.cache
+E:\Code\CodeWars\6 kyu\Sort the odd\obj\Debug\net8.0\ref\Sort the odd.dll
